@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canale 5" group-title="Campania",Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-id="TeleClubItalia" group-title="Campania",TeleClub Italia
 https://teleclubitalia.iostream.it/tci1080.m3u8
 #EXTINF:-1 tvg-id="Canale 21" group-title="Campania",Canale 21
